@@ -1,4 +1,4 @@
-name: cityvisions
+name: City Visions
 favicon: null
 layout_spectrum: 0.759034572634846
 typography_spectrum: 0.6321889574173838
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#7897b5'
-    - '#a7e0ff'
-    - '#a68e74'
-    - '#817670'
-    - '#f9c99b'
-  brandStrength: 0.5384497379418463
-  lightness: 0.1910541784018278
-  saturation: 0.6000407673418522
-  rhythmicContrast: 0.7128304170910269
+    - '#ffffff'
+    - '#060606'
+    - '#8999a6'
+    - '#e52628'
+    - '#d8c99d'
+  brandStrength: 0.625
+  lightness: 0.6875
+  saturation: 0.25
+  rhythmicContrast: 0.75
 purpose: []
